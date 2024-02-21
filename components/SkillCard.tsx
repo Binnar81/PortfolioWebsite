@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 
 type Props = {
   skillCard: {
@@ -48,7 +49,7 @@ const SkillCard = ({ skillCard }: Props) => {
               key={skill.name}
               className="px-3 py-1 border border-gray-400 rounded-lg"
             >
-              <img src={skill.image} alt={skill.name} className="w-20 h-20 mr-2" />
+              <Image src={skill.image} alt={skill.name} width={50} height={40} className="w-20 h-20 mr-2" />
               <span>{skill.name}</span>
             </motion.li>
           ))}

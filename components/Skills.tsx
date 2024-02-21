@@ -40,6 +40,7 @@ const Skills = (props: Props) => {
       {skillCardData.map((skillCard) => (
 
 <SkillCard
+key={skillCard.id}
   skillCard={skillCard}
 />    
           ))}
