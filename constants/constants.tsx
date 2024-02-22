@@ -120,6 +120,14 @@ const projectList = [
     githubLink: 'https://github.com/Binnar81/ShoppingMart-Website',
   },
   {
+    title: 'My Portfolio Website',
+    image: 'portfolio.png',
+    description: `My Portfolio Website`,
+    tech: ['Next.js','Tailwind  CSS','TypeScript', 'Framer Motion'],
+    projectLink: 'https://sanju-portfolio.vercel.app/',
+    githubLink: 'https://github.com/Binnar81/PortfolioWebsite',
+  },
+  {
     title: 'BSRO Rockets Website',
     image: 'BSRO.png',
     description: `BSRO Rocket is a landing page of BSRO space agency `,
