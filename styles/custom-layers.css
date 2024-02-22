@@ -1,0 +1,35 @@
+@layer base {
+    .from-tertiary {
+      /* Define the styles for the `.from-tertiary` class here */
+      background-color: #f0f0f0; /* Example style */
+    }
+    .custom-social-btn {
+        @apply custom-transition p-2 rounded-full border-2 border-gray-500 hover:border-primary text-2xl text-gray-300 hover:text-primary;
+      }
+
+      .contactInput {
+        @apply p-3 rounded-md flex bg-zinc-900 outline-none border border-zinc-800 focus:border-primary text-white placeholder-gray-500 transition-all;
+      }
+      .custom-gradient-text {
+        @apply bg-clip-text text-transparent bg-gradient-to-t from-tertiary via-primary to-secondary;
+      }
+
+      .section-title {
+        @apply mb-4 text-3xl md:text-4xl text-center uppercase custom-gradient-text tracking-widest font-semibold;
+      }
+      .btn-primary-style {
+        @apply custom-transition border border-primary bg-primary hover:bg-primary-shade hover:border-primary-shade text-black;
+      }
+      .btn-secondary-style {
+        @apply custom-transition border border-primary hover:bg-primary hover:border-primary text-primary hover:text-black;
+      }
+
+      .bg-tech-circle-8 {
+        @apply h-[500px] w-[500px] md:h-[650px] md:w-[650px] hero-ring-style border md:border-2 border-primary/40 animate-pulse;
+      }
+      .scrollbar::-webkit-scrollbar-thumb {
+        @apply bg-primary rounded-xl hover:bg-[yellow];
+      }
+    
+  }
+  
