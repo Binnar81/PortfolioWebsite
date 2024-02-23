@@ -1,32 +1,53 @@
-#My Portfolio Website
-####This portfolio website serves as a showcase of my work, skills, and projects. It provides visitors with an overview of who I am as a developer and what I have accomplished.
+# My Portfolio Website
 
-##Technologies Used: 
-####Next.js, Tailwind CSS, TypeScript, Framer Motion.
+#### This portfolio website serves as a showcase of my work, skills, and projects. It provides visitors with an overview of who I am as a developer and what I have accomplished.
 
-##Explore the Website:
-https://sanju-portfolio.vercel.app/
+## Technologies Used:
 
-##Project Installation Guidelines:
-###clone the repository:
-####git clone <repository-url>
+* Next.js
+* Tailwind CSS
+* TypeScript
+* Framer Motion
+  
+### Running Demo of My Portfolio Website Project:
+https://github.com/Binnar81/sanjay-portfolio/blob/7e77b17ec5082c95a3bfc53b26352644aa0f80ce/public/assets/portfoliowebsiteProjectDemo.mp4
 
-###Navigate into the Project directory:
-####cd <repository-path>
+## Explore the Website:
 
-###Install dependencies:
-####npm install
+[https://sanju-portfolio.vercel.app/](https://sanju-portfolio.vercel.app/)
 
-###Run the Development Server:
-####npm run dev
+## Project Installation Guidelines:
 
-##License:
-####This project is licensed under the MIT License.
+### Clone the repository:
+git clone repository-url
 
-##Project Running Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uUBMXUo-iNo?si=pcSkTQd5acM7i2Db" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Navigate into the Project Directory:
+cd repository-url
+
+### Install Some Dependencies:
+npm install
+
+### Run the Developement Server:
+npm run dev
+
+## Different Sections of the Project:
+ 1) Home Section:
+   ![test](https://github.com/Binnar81/sanjay-portfolio/blob/1af593480de6a23f245ba8e5801175391ab3e91a/public/assets/PortfolioHomePage.png)
+
+ 2) About Section:
+   ![test](https://github.com/Binnar81/sanjay-portfolio/blob/1af593480de6a23f245ba8e5801175391ab3e91a/public/assets/PortfolioAboutMePage.png)
+
+ 3) Project Section:
+   ![test](https://github.com/Binnar81/sanjay-portfolio/blob/1af593480de6a23f245ba8e5801175391ab3e91a/public/assets/PortfolioProjectPage.png)
+
+ 4) Contact Section:
+   ![test](https://github.com/Binnar81/sanjay-portfolio/blob/1af593480de6a23f245ba8e5801175391ab3e91a/public/assets/PortfolioContactMePage.png)
+
+ 5) Skills Section:
+   ![test](https://github.com/Binnar81/sanjay-portfolio/blob/1af593480de6a23f245ba8e5801175391ab3e91a/public/assets/PortfolioSkillsPage.png)
 
 
-##Different Sections of the Project:
-####1.Home Section:
-![Home Section]("/assets/PortfolioHome.png")
+
+
+
+
