@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio Website
 
 #### This portfolio website serves as a showcase of my work, skills, and projects. It provides visitors with an overview of who I am as a developer and what I have accomplished.
@@ -51,3 +52,13 @@ npm run dev
 
 
 
+=======
+
+
+
+
+
+
+
+
+>>>>>>> d717c524354c99ba7610ae1d61c7cd2db38e7106
