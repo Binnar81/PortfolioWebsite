@@ -10,7 +10,7 @@
 * Framer Motion
   
 ### Running Demo of My Portfolio Website Project:
-https://github.com/Binnar81/sanjay-portfolio/blob/7e77b17ec5082c95a3bfc53b26352644aa0f80ce/public/assets/portfoliowebsiteProjectDemo.mp4
+[Video Link](https://youtu.be/uUBMXUo-iNo)
 
 ## Explore the Website:
 https://sanju-portfolio.vercel.app/
